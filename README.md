@@ -184,11 +184,11 @@ Metro Station are more associate with cyber threats, follow by Bus station.
 
 
 # Recommendations:
-. Implement stronger security protocols for IoT devices in high-risk areas, especially in smart city, smart home and industrial IoT.
-. Deploy real-time monitoring for traffic sensors and smart city infrastructure to prevent cyber intrusions.
-. Prioritize cybersecurity investments in hospitals, gas stations, and railway hubs with high cyberattack rates.
-. Consider the impact of weather conditions on IoT security, implementing additional safeguards for extreme climates.
-. Educate users on the risks of IoT cybersecurity in urban areas.
+ ###### Implement stronger security protocols for IoT devices in high-risk areas, especially in smart city, smart home and industrial IoT.
+ ###### Deploy real-time monitoring for traffic sensors and smart city infrastructure to prevent cyber intrusions.
+ ###### Prioritize cybersecurity investments in hospitals, gas stations, and railway hubs with high cyberattack rates.
+ ###### Consider the impact of weather conditions on IoT security, implementing additional safeguards for extreme climates.
+ ###### Educate users on the risks of IoT cybersecurity in urban areas.
 
 
 
