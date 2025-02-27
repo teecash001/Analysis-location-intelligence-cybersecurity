@@ -45,9 +45,11 @@
   ###### The dataset contains 16 columns and 10,000 rows. The data look good.
 
 1.	I used Removed duplicates to check for duplicates, the data did not contain duplicates.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/picture%202.png)
  
 
-2.	I checked for blanks, the data did not contain blanks
+3.	I checked for blanks, the data did not contain blanks
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/picture%202.png)
  
 
 # Questions guiding our analysis:
