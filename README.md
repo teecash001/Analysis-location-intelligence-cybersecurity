@@ -71,8 +71,8 @@
 
 
 # Insights:
-1.	City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
 ![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%201.png)
+1.	City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
 
 
 
