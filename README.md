@@ -72,9 +72,10 @@ Smartphone Data	5000
 Grand Total	65450
 
  
-City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
+1. City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/picture%201.png)
 
-2.	Are certain infrastructure types (e.g., Sewage system, Dam, or Bridge) more prone to cyberattacks?
+3.	Are certain infrastructure types (e.g., Sewage system, Dam, or Bridge) more prone to cyberattacks?
 Row Labels	Count of Cyber Attack Type
 Sewage System	14048
 Power Line	13815
