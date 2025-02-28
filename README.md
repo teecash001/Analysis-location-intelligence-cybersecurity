@@ -78,42 +78,42 @@
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%202.png)
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q2.PNG)
 2.	Sewage system, Powerline, Dam and Bridge has more prone on cyberattacks then Wifi hotspot, Cell tower, Data center and Mobile tower.
 
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%203.png)
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q3.PNG)
 3.	Temperature, Humidity, Rainfall levels has influence on the cyberattack type.
 
   
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%204.png)
-5.	Traffic sensor has the highest number of air quality on IOT devices, follow by Iot-connected Ecg, Smart street light, Environmental sensor, Smartwatch, Remote patient monitor, Medical sensor, Fitness tracker etc.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q4.PNG)
+4.	Traffic sensor has the highest number of air quality on IOT devices, follow by Iot-connected Ecg, Smart street light, Environmental sensor, Smartwatch, Remote patient monitor, Medical sensor, Fitness tracker etc.
 
 
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%205.png)
-6.	Brute Force Attack is the most common cyberattack type, follow by Session Hijacking and Zero Day Exploit who are second most common cyberattack, follow by others.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q5.PNG)
+5.	Brute Force Attack is the most common cyberattack type, follow by Session Hijacking and Zero Day Exploit who are second most common cyberattack, follow by others.
 
   
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%206.png)
-7.	Smart City are most targeted IOT device, follow by Smart Home, Wearable and others.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q6.PNG)
+6.	Smart City are most targeted IOT device, follow by Smart Home, Wearable and others.
 
 
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/Question%20P%207.png)
-8.	Metro Station are more associate with cyber threats, follow by Bus station.
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/New%20picture%20Q7.PNG)
+7.	Metro Station are more associate with cyber threats, follow by Bus station.
 
 
 
