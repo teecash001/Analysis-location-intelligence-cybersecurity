@@ -11,7 +11,7 @@
 
 
 # Introduction
-###### The dataset provides insights into cybersecurity threats affecting IoT devices across various locations and infrastructure types. It includes geospatial data (latitude, longitude, and elevation), environmental factors (temperature, humidity, rainfall), infrastructure types, and cyberattack records on IoT devices. By analyzing this dataset, we can identify high-risk areas, potential correlations between environmental conditions and cyber threats, and strategies for improving cybersecurity.
+### The dataset provides insights into cybersecurity threats affecting IoT devices across various locations and infrastructure types. It includes geospatial data (latitude, longitude, and elevation), environmental factors (temperature, humidity, rainfall), infrastructure types, and cyberattack records on IoT devices. By analyzing this dataset, we can identify high-risk areas, potential correlations between environmental conditions and cyber threats, and strategies for improving cybersecurity.
 
 # Objective:
 ###### The primary objective of this study is to analyze the relationship between location intelligence, environmental factors, and cybersecurity threats targeting IoT devices. The study aims to identify high-risk areas, understand attack patterns, and recommend effective cybersecurity measures based on geospatial and environmental data.
