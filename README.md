@@ -11,10 +11,10 @@
 
 
 # Introduction
-### The dataset provides insights into cybersecurity threats affecting IoT devices across various locations and infrastructure types. It includes geospatial data (latitude, longitude, and elevation), environmental factors (temperature, humidity, rainfall), infrastructure types, and cyberattack records on IoT devices. By analyzing this dataset, we can identify high-risk areas, potential correlations between environmental conditions and cyber threats, and strategies for improving cybersecurity.
+##### The dataset provides insights into cybersecurity threats affecting IoT devices across various locations and infrastructure types. It includes geospatial data (latitude, longitude, and elevation), environmental factors (temperature, humidity, rainfall), infrastructure types, and cyberattack records on IoT devices. By analyzing this dataset, we can identify high-risk areas, potential correlations between environmental conditions and cyber threats, and strategies for improving cybersecurity.
 
 # Objective:
-###### The primary objective of this study is to analyze the relationship between location intelligence, environmental factors, and cybersecurity threats targeting IoT devices. The study aims to identify high-risk areas, understand attack patterns, and recommend effective cybersecurity measures based on geospatial and environmental data.
+##### The primary objective of this study is to analyze the relationship between location intelligence, environmental factors, and cybersecurity threats targeting IoT devices. The study aims to identify high-risk areas, understand attack patterns, and recommend effective cybersecurity measures based on geospatial and environmental data.
 
 # Data Source:
 ###### The data was downloaded from Kaggle.com and was loaded into Excel.
@@ -71,50 +71,57 @@
 
 
 # Insights:
-## 1.	City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
+##### 1.	City Boundary, Road, Railway, Hospital, Gas station, Forest and River are the most locations vulnerable to cyber threats, follow by Social network data and Smartphone data who has the lowest cyber threats.
+
 ![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q1.PNG)
 
 
 
 
 
-
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q2.PNG)
 ##### 2.	Sewage system, Powerline, Dam and Bridge has more prone on cyberattacks then Wifi hotspot, Cell tower, Data center and Mobile tower.
 
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q2.PNG)
 
 
 
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q3.PNG)
+
 ##### 3.	Temperature, Humidity, Rainfall levels has influence on the cyberattack type.
 
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q3.PNG)
+
+
   
 
 
-
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q4.PNG)
 ##### 4.	Traffic sensor has the highest number of air quality on IOT devices, follow by Iot-connected Ecg, Smart street light, Environmental sensor, Smartwatch, Remote patient monitor, Medical sensor, Fitness tracker etc.
 
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q4.PNG)
 
 
 
+
+
+##### 5.	Brute Force Attack is the most common cyberattack type, follow by Session Hijacking and Zero Day Exploit who are second most common cyberattack, follow by others.
 
 ![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q5.PNG)
-##### 5.	Brute Force Attack is the most common cyberattack type, follow by Session Hijacking and Zero Day Exploit who are second most common cyberattack, follow by others.
+
 
   
 
 
-
-![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q6.PNG)
 ##### 6.	Smart City are most targeted IOT device, follow by Smart Home, Wearable and others.
 
+![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q6.PNG)
 
 
 
+
+
+##### 7.	Metro Station are more associate with cyber threats, follow by Bus station.
 
 ![create table](https://github.com/teecash001/Analysis-location-intelligence-cybersecurity/blob/main/assets/images/NW%20Q7.PNG)
-##### 7.	Metro Station are more associate with cyber threats, follow by Bus station.
+
 
 
 
